@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Flex Admin"
 slug: flex-admin
-source: http://wrapbootstrap.com/preview/WB032SCB1
-purchase-link: "https://wrapbootstrap.com/theme/flex-admin-responsive-admin-template-WB032SCB1"
+source: http://wrapbootstrap.com/preview/WB032SCB1?ref=StartBootstrap
+purchase-link: "https://wrapbootstrap.com/theme/flex-admin-responsive-admin-template-WB032SCB1?ref=StartBootstrap"
 categories: premium
 description: Responsive Admin Template
 ---

@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Landing Page"
 slug: landing-page
 source: /template-overviews/landing-page
-categories: template landing-pages one-page portfolios featured popular
+categories: template landing-pages one-page portfolios popular
 description: A clean, functional landing page theme.
 ---
 

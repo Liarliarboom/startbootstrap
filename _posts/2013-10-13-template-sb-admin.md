@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "SB Admin"
 slug: sb-admin
 source: /template-overviews/sb-admin
-categories: template admin full-websites unstyled featured popular
+categories: template admin full-websites unstyled popular
 description: A free Bootstrap admin template.
 ---
 
